@@ -5,6 +5,8 @@
 body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
+ background-image: url(gingamu.png);
+  
 }
 
 a {
@@ -19,8 +21,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
- background-image: url(gingamu.png);
-  background-size: cover;
+ 
   color: white;
   text-align: center;
 }
