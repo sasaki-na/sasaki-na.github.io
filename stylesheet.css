@@ -5,6 +5,9 @@
 body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
+    background-image: url(gingamu.png);
+  background-size: cover;
+  background-repeat:repeat:
 }
 
 a {
